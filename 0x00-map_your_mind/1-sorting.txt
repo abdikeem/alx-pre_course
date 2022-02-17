@@ -1,0 +1,19 @@
+// IF STATEMENT:
+// 3 integer inputs(first, second, third)
+// if first input is less than the second and third is less than second input
+    // if first input is greater than third input
+        // print(third, first, second)
+    // else 
+        // print(first, third, second)
+// elif first is less than third and second is less than third
+    // if first is greater than second
+        // print(second, first, third)
+    // else
+        // print(first, second, third)
+// elif second less than first and third less than first
+    // if third greater than second
+        // print(second, third, first)
+    // else
+        // print(third, second, first)
+// else
+    // print(first, second, third)
