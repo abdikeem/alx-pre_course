@@ -1,0 +1,8 @@
+//IF STATEMENT:
+//Set counter to 0
+//Input number
+// change the number to integer
+    //IF input nuumber != 0
+        //assign a variable name to sum and the input number
+        // create a new_varibale name for the square of the sum
+        // print the new_varibale
